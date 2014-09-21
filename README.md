@@ -17,3 +17,7 @@
 * SpiderOak
 * ...
 
+## Comparisons
+
+* https://www.backblaze.com/best-online-backup-service.html
+* http://thesweetsetup.com/apps/best-cloud-backup-service/
