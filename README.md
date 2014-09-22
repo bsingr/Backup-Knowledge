@@ -17,6 +17,14 @@
 * SpiderOak
 * ...
 
+## Applications
+
+* rsync
+* unison
+* areca
+* ...
+
+
 ## Comparisons
 
 * https://www.backblaze.com/best-online-backup-service.html
